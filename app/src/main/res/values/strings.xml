@@ -5,6 +5,8 @@
     <string name="btnTextWinona">Send Winona Ryder a text message</string>
     <string name="btnTextVince">Send Vince Vaughn a text message</string>
     <string name="btnTextJessica">Send Jessica Biel a text message</string>
+    <string name="txtViewSelectSomeone">Select someone to text:</string>
+    <string name="txtViewPredefinedMsg">Select a predefined message:</string>
 
     <string-array name="predefined_messages">
         <item>On my way!</item>
