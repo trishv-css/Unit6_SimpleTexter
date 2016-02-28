@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unit6_SimpleTexter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="btnTextWinona">Send Winona Ryder a text message</string>
+    <string name="btnTextVince">Send Vince Vaughn a text message</string>
+    <string name="btnTextJessica">Send Jessica Biel a text message</string>
+
+    <string-array name="predefined_messages">
+        <item>On my way!</item>
+        <item>Whats up?</item>
+        <item>See you soon.</item>
+        <item>Okay.</item>
+        <item>Is it a good time to talk?</item>
+    </string-array>
+</resources>
